@@ -1,2 +1,2 @@
 # segmentation
-This is our segmentation framework for medical imaging.
+Code for Automatic Cardiac Diagnosis Challenge 2017 
